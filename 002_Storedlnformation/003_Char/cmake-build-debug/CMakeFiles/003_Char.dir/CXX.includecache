@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/syurskyi/CLionProjects/ITVDN_CXX_Starter_CLion/002_Storedlnformation/003_Char/main.cpp
+stdafx.h
+E:/syurskyi/CLionProjects/ITVDN_CXX_Starter_CLion/002_Storedlnformation/003_Char/stdafx.h
+iostream
+-
+
+E:/syurskyi/CLionProjects/ITVDN_CXX_Starter_CLion/002_Storedlnformation/003_Char/stdafx.h
+targetver.h
+E:/syurskyi/CLionProjects/ITVDN_CXX_Starter_CLion/002_Storedlnformation/003_Char/targetver.h
+stdio.h
+-
+tchar.h
+-
+
+E:/syurskyi/CLionProjects/ITVDN_CXX_Starter_CLion/002_Storedlnformation/003_Char/targetver.h
+SDKDDKVer.h
+-
+
